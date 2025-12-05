@@ -1,7 +1,7 @@
 #  Cybersecurity Labs – Portafolio Profesional  
 Autor: Javier Toloza  
 Carrera: Ingeniería en Ciberseguridad  
-Objetivo: Documentar labs reales, análisis de vulnerabilidades y ejercicios prácticos enfocados en seguridad defensiva y ofensiva.
+Objetivo: Mostrar habilidades prácticas en análisis de vulnerabilidades, web/network security y scripting
 
 -------------------------------------------
 
